@@ -19,6 +19,6 @@ cd Admin-Helper-Bash-Script
 
 chmod +x adminHelper.sh
   
-**3) Run the script with superuser privileges:** \
+**3) Run the script with superuser privileges:** 
 
 sudo ./adminHelper.sh
