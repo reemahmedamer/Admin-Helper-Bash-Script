@@ -10,12 +10,15 @@ This repository contains a Bash script that provides a simple user and group man
 
 
 ## Usage
-1) Clone the repository to your local machine:
-git clone https://github.com/reemahmedamer/Admin-Helper-Bash-Script.git
+**1) Clone the repository to your local machine:** 
+
+git clone https://github.com/reemahmedamer/Admin-Helper-Bash-Script.git 
 cd Admin-Helper-Bash-Script
 
-2) Make the script executable:
+**2) Make the script executable:** 
+
 chmod +x adminHelper.sh
   
-3)Run the script with superuser privileges:
+**3) Run the script with superuser privileges:** \
+
 sudo ./adminHelper.sh
